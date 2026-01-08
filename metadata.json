@@ -1,0 +1,5 @@
+{
+  "name": "Moran AI Content Dashboard",
+  "description": "A sleek, professional dashboard for scraping content from Reddit and newsletters, organizing saved items, and generating viral content hooks.",
+  "requestFramePermissions": []
+}
